@@ -57,7 +57,7 @@ const leo = {
 
 ---
 
-## 🐍 Contribution Snake
+## 💻 Currently Building...
 
 <div align="center">
 
@@ -69,8 +69,20 @@ const leo = {
 
 </div>
 
+---
+
+## 📊 Contribution Stats
+
 <div align="center">
-<i>🦝 Watch Gaspi eat through the contributions... one commit at a time!</i>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoValdi64&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoValdi64&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoValdi64&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoValdi64&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeoValdi64&theme=tokyonight&utcOffset=-8" />
+
 </div>
 
 <br/>
@@ -147,18 +159,11 @@ const leo = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoValdi64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoValdi64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
+## 🔥 Streak
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoValdi64&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoValdi64&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
