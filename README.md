@@ -71,17 +71,28 @@ const leo = {
 
 ---
 
-## 📊 Contribution Stats
+## 📊 Stats & Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoValdi64&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoValdi64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide=issues&custom_title=GitHub%20Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoValdi64&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoValdi64&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoValdi64&theme=tokyonight" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoValdi64&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeoValdi64&theme=tokyonight&utcOffset=-8" />
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoValdi64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+```
+  📈 4+ Years of Experience    |    🔧 40+ Projects Built    |    💼 Full Stack Development
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏢 Enterprise Systems        |    🔐 Security Research     |    🤖 AI Integration
+```
 
 </div>
 
@@ -152,18 +163,6 @@ const leo = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoValdi64&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
