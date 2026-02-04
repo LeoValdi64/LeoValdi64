@@ -57,16 +57,20 @@ const leo = {
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoValdi64&custom_title=🦝%20Gaspi%20is%20coding...%20building%20the%20future%20one%20commit%20at%20a%20time&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=fff&area=true&area_color=238636"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoValdi64/LeoValdi64/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoValdi64/LeoValdi64/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LeoValdi64/LeoValdi64/output/github-snake.svg" />
+</picture>
 
 </div>
 
 <div align="center">
-<i>"Every green square represents a step forward. The journey of a thousand projects begins with a single commit."</i>
+<i>🦝 Watch Gaspi eat through the contributions... one commit at a time!</i>
 </div>
 
 <br/>
