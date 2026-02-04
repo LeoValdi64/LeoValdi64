@@ -4,7 +4,7 @@
   
 ### 👨‍💻 Full Stack Developer | 🔐 Security Enthusiast | 🌲 Nature Lover
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaspi-portfolio.vercel.app)
+[![Website](https://img.shields.io/badge/leovaldi.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://leovaldi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leovaldi64)
 
 </div>
@@ -57,6 +57,22 @@ const leo = {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoValdi64&custom_title=🦝%20Gaspi%20is%20coding...%20building%20the%20future%20one%20commit%20at%20a%20time&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=fff&area=true&area_color=238636"/>
+
+</div>
+
+<div align="center">
+<i>"Every green square represents a step forward. The journey of a thousand projects begins with a single commit."</i>
+</div>
+
+<br/>
+
+---
+
 ## 🚀 Projects Built by Gaspi
 
 <div align="center">
@@ -100,6 +116,7 @@ const leo = {
 | [Nail Salon](https://github.com/LeoValdi64/nail-salon-landing) | Beauty | [Demo](https://nail-salon-landing.vercel.app) |
 | [Pet Grooming](https://github.com/LeoValdi64/pet-grooming-landing) | Pets | [Demo](https://pet-grooming-landing.vercel.app) |
 | [Auto Detailing](https://github.com/LeoValdi64/auto-detailing-landing) | Automotive | [Demo](https://auto-detailing-landing.vercel.app) |
+| [Photography](https://github.com/LeoValdi64/photographer-landing) | Creative | [Demo](https://photographer-landing-three.vercel.app) |
 
 </div>
 
@@ -126,12 +143,18 @@ const leo = {
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoValdi64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoValdi64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoValdi64&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
